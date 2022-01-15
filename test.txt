@@ -1,0 +1,56 @@
+/* BGG Tests
+
+#1) Create Login 
+Navigate to: https://boardgamegeekstore.com/
+Select "account"
+Submit: email
+Generate: password
+Click "create account" 
+Enter: 1st name
+Enter: last name
+Enter: email
+Enter: password
+Click "create"
+
+#2) Test Dropdown Menus
+Navigate to: https://boardgamegeekstore.com/
+Select "promos"
+Select "all"
+Select "accessories"
+Select "all"
+Select "games"
+Select "all"
+Select "clothing"
+Select "all"
+Select "for the home"
+Select "all"
+For each page on left column check functionality of: collections, prices, stock.
+
+#3) Footer
+Navigate to: https://boardgamegeekstore.com/
+Scroll to bottom of page (locate footer)
+Select "about us" test functionality, look for clickable links, relative info
+Select "news" test functionality, check listing for accuracy, & chronological order
+Select "FAQ" test functionality. check clickable links, note breadcrumb accuracy
+
+#4) Search Bar
+Navigate to: https://boardgamegeekstore.com/
+Select "search" test functionality, use search engine for known/unknown searches
+Check relevance results, price, product type, stock
+
+#5) Checkout Process
+Navigate to: https://boardgamegeekstore.com/
+Goto promos, select promos
+Highlight any item, click add to cart
+Select any item, add to cart
+Click agree w/terms/conditions
+Proceed to checkout page
+Check payment options
+Check options to return to cart/store
+
+Errors:
+Once you select a drop down page, it changes your home screen for no reason
+While creating an account any email will suffice, no verification process
+After clicking on a listing of products & setting price limits, the results are inaccurate. 
+After selecting a range of $5-$50, multiple listings above the $50 limit populated.
+ 
